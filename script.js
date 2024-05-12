@@ -76,4 +76,4 @@ passwordInput.addEventListener('input', (e) => {
 	} else {
 		console.log('Weak password');
 	}
-});g
+});
